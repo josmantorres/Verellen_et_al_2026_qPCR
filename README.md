@@ -143,5 +143,5 @@ The qPCR script assumes that the relative expression values have already been ca
 
 The R scripts and input datasets used for the PER and qPCR analyses are available in this repository.
 
-**Manuscript:** Verellen et al. (2026). *[Differential sucrose sensitivity and neuropeptide expression in peripheral and central sensory tissues among dance followers of the honey bee, Apis
-mellifera]*.
+**Manuscript:** Verellen et al. (2026). Differential sucrose sensitivity and neuropeptide expression in peripheral and central sensory tissues among dance followers of the honey bee, Apis
+mellifera.
